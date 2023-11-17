@@ -15,9 +15,10 @@ h1, h2, h3, h4, h5, h6 {
     font-style: italic;
 }
 
-.content {
+main {
     background-color: #F0F8FF;
     padding: 25px;
+    margin-top: 3em;
 }
 
 h1{
